@@ -1,0 +1,2 @@
+# agent-c7586f2f
+Auto-created workspace for Rose Labs agent
